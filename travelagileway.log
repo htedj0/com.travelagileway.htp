@@ -1,0 +1,4 @@
+2022-03-13 23:25:04 INFO  Log:21 - URL is opened http://travel.agileway.net/
+2022-03-13 23:25:04 WARN  Log:22 - Login is agileway
+2022-03-13 23:25:04 ERROR Log:27 - password is testwise
+2022-03-13 23:25:05 FATAL Log:33 - click login
